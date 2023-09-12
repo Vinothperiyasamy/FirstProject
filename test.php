@@ -1,2 +1,2 @@
-var b=20;
+var b=23;
 consolge.log(b);
