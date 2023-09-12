@@ -1,3 +1,3 @@
-var b=40;
+var b=400;
 
 consolge.log(b);
