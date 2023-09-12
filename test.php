@@ -1,3 +1,3 @@
 var b=400;
 
-consolge.log(b);
+consolge.log(b * 10);
